@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Seung Deok Seo (سونغ دوك سيو)"
+title: "Seung Deok Seo <span style='font-size: 0.8em;'>سونغ دوك سيو</span>"
 author_profile: true
 redirect_from: 
   - /about/
