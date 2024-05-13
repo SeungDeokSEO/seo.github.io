@@ -23,6 +23,7 @@ Research Interests
 🌍 Middle East and North Africa
 
 <div style="text-align: center">
-    <img src="/images/deok2.png" alt="Map">
+    <img src="https://SeungDeokSEO.github.io/seo.github.io/images/Map.jpg" alt="Map">
 </div>
+
 
