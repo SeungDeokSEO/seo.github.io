@@ -22,6 +22,7 @@ Research Interests
 
 🌍 Middle East and North Africa
 
+
 Education
 ======
 
@@ -32,8 +33,8 @@ MSc. in Development Studies, **London School of Economics and Political Science*
 B.A. in Arabic Interpretation and Translation, **Hankuk University of Foreign Studies**, 2016
 
 
-Additional Training
 
+Additional Training
 ======
 
 Summer Course (The History of the Arab-Israeli Conflict), **Hebrew University of Jerusalem**, 2019
@@ -46,9 +47,9 @@ Winter Break Program (Arabic studies), **Cairo University**, 2011
 
 
 <div style="text-align: center">
-    <img src="/images/Map.jpg" alt="Map of the Arab League">
-    <p>Map of the Arab League, photographed by Seung Deok Seo, 2024</p>
+    <img src="https://SeungDeokSEO.github.io/seo.github.io/images/Map.jpg" alt="Map">
 </div>
+Map of the Arab League (1960), photographed by Seung Deok Seo, 2024
 
 
 
