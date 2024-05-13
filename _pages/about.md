@@ -22,5 +22,5 @@ Research Interests
 
 🌍 Middle East and North Africa
 
-![Map](/images/Map.jpg){: .align-center}
+![map](/images/Map.jpg)
 
