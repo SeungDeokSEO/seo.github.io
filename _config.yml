@@ -12,7 +12,7 @@ title                    : "Seung Deok Seo"
 title_separator          : "-"
 name                     : &name "Seung Deok"
 description              : # &description "personal description"
-url                      : https://seungdeokseo.github.io/seo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://seungdeokseo.github.io/seo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seungdeokseo.github.io/seo.github.io"
 
@@ -24,25 +24,25 @@ author:
   avatar           : "deok.jpg"
   name             : "Seung Deok Seo"
   pronouns         : # example: "she/her"  
-  bio              : "Poliscir"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Political Science PhD Student"
+  location         : "Champaign, IL"
+  employer         : "University of Illinois"
+  uri              : "https://pol.illinois.edu/directory/profile/sdseo2"
+  email            : "sdseo2@illinois.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "SeungDeokSEO"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
