@@ -11,9 +11,9 @@ I am a second-year PhD student in [the Department of Political Science at the Un
  
 Previously, I worked as a consultant with UN Women in Palestine and the Korea International Cooperation Agency in their Iraq office. My education has spanned several countries, including South Korea, Egypt, Tunisia, Jordan, England, Israel, Palestine, and the United States.
 
+
 Research Interests
 ------
-
 📚 Comparative Politics (Civil Society)
 
 🔬 Foreign Aid (Aid Allocation; Humanitarian Aid; Gulf Aid) 
@@ -25,17 +25,15 @@ Research Interests
 
 Education
 ------
-
 Ph.D in Political Science, University of Illinois Urbana-Champaign, 2028 (expected)
 
 MSc. in Development Studies, London School of Economics and Political Science, 2018
 
 B.A. in Arabic Interpretation and Translation, Hankuk University of Foreign Studies, 2016
 
-
 <div style="text-align: center">
     <img src="https://SeungDeokSEO.github.io/seo.github.io/images/Map.jpg" alt="Map of the Arab League">
-    <div style="color: gray;"> **خارطة الدول العربية** (Map of the Arab League) ,1960, photographed by Seung Deok Seo, 2024</div>
+    <div style="color: gray;"><strong>خارطة الدول العربية</strong> (Map of the Arab League), 1960, photographed by Seung Deok Seo, 2024</div>
 </div>
 
 
