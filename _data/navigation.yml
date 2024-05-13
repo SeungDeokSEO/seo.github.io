@@ -2,19 +2,19 @@
 main:
   - title: "CV"
     url: # /publications/
-    url: /files/SEO_ CV_Apr_2024.pdf/
+    url: /files/SEO_ CV_Apr_2024.pdf
 
-  - title: "research"
+  - title: "Research"
     url: /research/    
 
-  - title: "field work"
+  - title: "Field work"
     url: /field-work/    
     
   - title: #"Portfolio"
     url: #/portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: #"Blog Posts"
+    url: #/year-archive/
     
   - title: #"CV"
     url: #/cv/
