@@ -26,30 +26,16 @@ Research Interests
 Education
 ======
 
-Ph.D in Political Science, **University of Illinois Urbana-Champaign**, 2028 (expected)
+Ph.D in Political Science, University of Illinois Urbana-Champaign, 2028 (expected)
 
-MSc. in Development Studies, **London School of Economics and Political Science**, 2018
+MSc. in Development Studies, London School of Economics and Political Science, 2018
 
-B.A. in Arabic Interpretation and Translation, **Hankuk University of Foreign Studies**, 2016
-
-
-
-Additional Training
-======
-
-Summer Course (The History of the Arab-Israeli Conflict), **Hebrew University of Jerusalem**, 2019
-
-Study Abroad Program (Arabic studies), **University of Jordan**, 2015
-
-Arabic Language Training, **Bourguiba Institute of Modern Languages (Tunis)**, 2014
-
-Winter Break Program (Arabic studies), **Cairo University**, 2011
+B.A. in Arabic Interpretation and Translation, Hankuk University of Foreign Studies, 2016
 
 
 <div style="text-align: center">
-    <img src="https://SeungDeokSEO.github.io/seo.github.io/images/Map.jpg" alt="Map">
+    <img src="https://SeungDeokSEO.github.io/seo.github.io/images/Map.jpg" alt="Map of the Arab League">
+    <div style="color: gray;">Map of the Arab League (1960), photographed by Seung Deok Seo, 2024</div>
 </div>
-Map of the Arab League (1960), photographed by Seung Deok Seo, 2024
-
 
 
