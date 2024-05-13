@@ -15,15 +15,20 @@ Previously, I worked as a consultant with UN Women in Palestine and the Korea In
 Research Interests
 ------
 📚 Comparative Politics (Civil Society)
+
 🔬 Foreign Aid (Aid Allocation; Humanitarian Aid; Gulf Aid) 
+
 🤝 Inter-NGO cooperation
+
 🌍 Middle East and North Africa
 
 
 Education
 ------
 Ph.D in Political Science, University of Illinois Urbana-Champaign, 2028 (expected)
+
 MSc. in Development Studies, London School of Economics and Political Science, 2018
+
 B.A. in Arabic Interpretation and Translation, Hankuk University of Foreign Studies, 2016
 
 <div style="text-align: center">
