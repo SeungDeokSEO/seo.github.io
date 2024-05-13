@@ -35,7 +35,7 @@ B.A. in Arabic Interpretation and Translation, Hankuk University of Foreign Stud
 
 <div style="text-align: center">
     <img src="https://SeungDeokSEO.github.io/seo.github.io/images/Map.jpg" alt="Map of the Arab League">
-    <div style="color: gray;">Map of the Arab League (1960), photographed by Seung Deok Seo, 2024</div>
+    <div style="color: gray;"> **خارطة الدول العربية** (Map of the Arab League) ,1960, photographed by Seung Deok Seo, 2024</div>
 </div>
 
 
