@@ -14,7 +14,7 @@ Previously, I worked as a consultant with UN Women in Palestine and the Korea In
 
 Research Interests
 ------
-📚 Comparative Politics (Civil Society)
+📚 Comparative Politics (Civil Society; Grassroots Nongovernment Organizations)
 
 🔬 Foreign Aid (Aid Allocation; Humanitarian Aid; Gulf Aid) 
 
