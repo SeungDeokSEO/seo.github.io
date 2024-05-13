@@ -25,11 +25,11 @@ Research Interests
 
 Education
 ------
-Ph.D in Political Science, University of Illinois Urbana-Champaign, 2028 (expected)
+🔹 PhD in Political Science, University of Illinois Urbana-Champaign, 2028 (expected)
 
-MSc. in Development Studies, London School of Economics and Political Science, 2018
+🔹 MSc in Development Studies, London School of Economics and Political Science, 2018
 
-B.A. in Arabic Interpretation and Translation, Hankuk University of Foreign Studies, 2016
+🔹 BA in Arabic Interpretation and Translation, Hankuk University of Foreign Studies, 2016
 
 <div style="text-align: center">
     <img src="https://SeungDeokSEO.github.io/seo.github.io/images/Map.jpg" alt="Map of the Arab League">
