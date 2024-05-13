@@ -21,3 +21,6 @@ Research Interests
 🤝 Inter-NGO cooperation
 
 🌍 Middle East and North Africa
+
+![Map](/image/map.jpg){: .align-center}
+
