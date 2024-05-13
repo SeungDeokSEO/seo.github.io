@@ -12,7 +12,7 @@ I am a second-year PhD student in [the Department of Political Science at the Un
 Previously, I worked as a consultant with UN Women in Palestine and the Korea International Cooperation Agency in their Iraq office. My education has spanned several countries, including South Korea, Egypt, Tunisia, Jordan, England, Israel, Palestine, and the United States.
 
 Research Interests
-======
+------
 
 📚 Comparative Politics (Civil Society)
 
@@ -24,7 +24,7 @@ Research Interests
 
 
 Education
-======
+------
 
 Ph.D in Political Science, University of Illinois Urbana-Champaign, 2028 (expected)
 
