@@ -22,5 +22,5 @@ Research Interests
 
 🌍 Middle East and North Africa
 
-![map](/images/Map.jpg)
+![map](/images/deok2.png)
 
