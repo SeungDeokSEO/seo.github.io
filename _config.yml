@@ -24,9 +24,9 @@ author:
   avatar           : "deok.jpg"
   name             : "Seung Deok Seo"
   pronouns         : # example: "she/her"  
-  bio              : "Political Science PhD Student"
-  location         : "Champaign, IL"
-  employer         : "University of Illinois"
+  bio              : "Political Science PhD Student at University of Illinois Urbana-Champaign"
+  location         : #"Champaign, IL"
+  employer         : #"University of Illinois"
   uri              : "https://pol.illinois.edu/directory/profile/sdseo2"
   email            : "sdseo2@illinois.edu" 
 
@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        :  seodirk
+  instagram        :  #seodirk
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
