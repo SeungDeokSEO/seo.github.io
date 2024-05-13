@@ -1,22 +1,23 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "CV"
+    url: # /publications/
+    url: /files/SEO_ CV_Apr_2024.pdf/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "research"
+    url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "field work"
+    url: /field-work/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: #"Portfolio"
+    url: #/portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: #"CV"
+    url: #/cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: #"Guide"
+    url: #/markdown/
