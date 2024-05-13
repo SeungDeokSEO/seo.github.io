@@ -21,7 +21,3 @@ Research Interests
 🤝 Inter-NGO cooperation
 
 🌍 Middle East and North Africa
-
-
-
-![alt text](../images/deok.jpg)
