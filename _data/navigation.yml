@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /files/Seo_CV_14_May_update.pdf
 
-  - title: "publications"
-    url: /_publications/
+  - title: "Publications"
+    url: /_publications/2009-10-01-paper-title-number-1.md/
 
   - title: #"Field work"
     url: #/field-work/    
