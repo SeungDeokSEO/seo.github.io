@@ -1,14 +1,31 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: site.locale }}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}{{ site.favicon }}">
-  <title>{{ site.title | escape }}</title>
-  <!-- other head elements -->
-</head>
-<body>
-  <!-- body content -->
-</body>
-</html>
+---
+layout: compress
+---
 
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
