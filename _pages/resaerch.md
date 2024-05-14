@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Work in Process"
-author_profile: true
+#author_profile: true
 #redirect_from: 
  # - /about/
  # - /about.html
