@@ -4,7 +4,7 @@ main:
     url: /files/Seo_CV_14_May_update.pdf
 
   - title: "Publications"
-    url: /publications/2009-10-01-paper-title-number-1.md/
+    url: /publication/2009-10-01-paper-title-number-1
 
   - title: #"Field work"
     url: #/field-work/    
