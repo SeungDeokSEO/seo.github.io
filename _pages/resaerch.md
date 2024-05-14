@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Publications/
+permalink: /Research/
 title: "<span style='font-size: 0.8em;'>Work in Progress</span>"
 author_profile: true
 redirect_from: 
