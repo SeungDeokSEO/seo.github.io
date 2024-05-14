@@ -1,6 +1,6 @@
 ---
 permalink: /Publications/
-title: "Work in Process"
+title: "Publications"
 author_profile: true
 redirect_from: 
 
