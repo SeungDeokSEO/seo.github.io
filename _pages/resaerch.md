@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Publications/
 title: "Work in Process"
 
 ---
