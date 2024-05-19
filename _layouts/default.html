@@ -11,6 +11,14 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
+  {% if site.analytics.provider and page.analytics != false %}
+  {% case site.analytics.provider %}
+    {% when "google-analytics-4" %}
+      {% include analytics-providers/google-analytics-4.html %}
+  {% endcase %}
+{% endif %}
+
+
   <body>
 
     {% include browser-upgrade.html %}

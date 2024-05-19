@@ -143,6 +143,11 @@ analytics:
     tracking_id          :
 
 
+google_analytics: G-V49J24EFG9
+analytics:
+  provider: google-analytics-4
+
+
 # Reading Files
 include:
   - .htaccess
