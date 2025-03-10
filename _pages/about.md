@@ -25,7 +25,4 @@ Education
 
 🔹 BA in Arabic Interpretation and Translation, Hankuk University of Foreign Studies
 
-
-
-Map of the Arab League
-خارطة الدول العربية (Map of the Arab League), 1960, photographed by Seung Deok Seo, 2024
+---
